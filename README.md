@@ -1,6 +1,6 @@
 # Bluetooth-Anemometer
 
-- Bluetooth
+- Anemometer
 - Nextion
 - Relay
 - RPi
