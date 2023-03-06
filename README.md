@@ -5,7 +5,7 @@
 - Relay
 - RPi
 
-This is unit uses a bluetooth anemometer and a base unit to measure wind and display its value.
+This unit uses a bluetooth anemometer and a base RPi unit to measure wind and display its values.
 
 User customizable outputs.
 
